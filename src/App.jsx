@@ -80,10 +80,10 @@ const demoOfficers = {
   },
 
   "9000000003": {
-    otp: "1234",
-    name: "Harpreet Singh",
-    region: "ludhiana",
-  },
+  otp: "1234",
+  name: "Gurpreet Singh",
+  region: "ludhiana",
+},
 
   "9000000004": {
     otp: "1234",
@@ -415,9 +415,6 @@ const text = {
   },
 };
 
-/* =====================================================
-   RISK
-===================================================== */
 
 function calculateRisk(farmer, regionData) {
   let score = 0;
@@ -2160,76 +2157,66 @@ function OfficerDashboard({
                           </small>
                         </div>
 
-                        <span
-                          className={`officer-risk ${riskClass}`}
-                        >
-                          {risk}/100
-                        </span>
+                        <div className="riskometer">
+
+  <div className="riskometer-header">
+    <small>Riskometer</small>
+    <strong>{risk}/100</strong>
+  </div>
+
+  <div className="risk-bar">
+    <div
+      className={`risk-progress ${riskClass}`}
+      style={{ width: `${risk}%` }}
+    ></div>
+  </div>
+
+  <div className="risk-labels">
+    <span>Low</span>
+    <span>Moderate</span>
+    <span>High</span>
+  </div>
+
+</div>
                       </div>
 
                       <div className="farmer-details">
-                        <span>
-                          🌾{" "}
-                          <strong>
-                            {farmer.crop}
-                          </strong>
-                        </span>
 
-                        <span>
-                          🌱 pH{" "}
-                          <strong>
-                            {
-                              farmer.soilPH
-                            }
-                          </strong>
-                        </span>
+  <div className="farmer-info-card">
+    <span>🌾</span>
+    <small>Crop</small>
+    <strong>{farmer.crop}</strong>
+  </div>
 
-                        <span>
-                          💧{" "}
-                          <strong>
-                            {
-                              farmer.moisture
-                            }
-                            %
-                          </strong>
-                        </span>
+  <div className="farmer-info-card">
+    <span>🚰</span>
+    <small>Irrigation</small>
+    <strong>{farmer.irrigation}</strong>
+  </div>
 
-                        <span>
-                          🚰{" "}
-                          <strong>
-                            {
-                              farmer.irrigation
-                            }
-                          </strong>
-                        </span>
+  <div className="farmer-info-card">
+    <span>🌱</span>
+    <small>Soil pH</small>
+    <strong>{farmer.soilPH}</strong>
+  </div>
 
-                        <span>
-                          💰 ₹
-                          {Number(
-                            farmer.loan
-                          ).toLocaleString(
-                            "en-IN"
-                          )}
-                        </span>
-                      </div>
+  <div className="farmer-info-card">
+    <span>💰</span>
+    <small>Loan Due</small>
+    <strong>{farmer.dueDays} days</strong>
+  </div>
+
+</div>
 
                       <div className="farmer-status">
-                        <span>
-                          {farmer.cropped
-                            ? "🌿 Crop Active"
-                            : "🌱 Not Cropped"}
-                        </span>
 
-                        <span>
-                          Loan due in{" "}
-                          <strong>
-                            {
-                              farmer.dueDays
-                            }{" "}
-                            days
-                          </strong>
-                        </span>
-                      </div>
+  <span>
+    {farmer.cropped
+      ? "🌿 Crop Active"
+      : "🌱 Not Cropped"}
+  </span>
+
+</div>
                     </div>
                   </div>
                 );

@@ -3067,3 +3067,119 @@ textarea:focus {
     min-height: 130px;
   }
 }
+.farmer-details {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  width: 100%;
+}
+
+.farmer-info-card {
+  flex: 1;
+  padding: 14px;
+
+  background: #f7f9f5;
+  border: 1px solid #e1e7dc;
+  border-radius: 12px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.farmer-info-card span {
+  font-size: 18px;
+}
+
+.farmer-info-card small {
+  font-size: 10px;
+  color: #7b8881;
+}
+
+.farmer-info-card strong {
+  font-size: 14px;
+  color: #19382e;
+}
+/* ================================
+   RISKOMETER - BIGGER + CENTERED
+================================ */
+
+.riskometer {
+  width: 260px;
+  min-width: 260px;
+
+  margin: 0 auto;
+}
+
+.riskometer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 8px;
+}
+
+.riskometer-header small {
+  font-size: 12px;
+  color: #6f7f76;
+  font-weight: 600;
+}
+
+.riskometer-header strong {
+  font-size: 16px;
+  color: #19382e;
+}
+
+/* Risk bar */
+
+.risk-bar {
+  width: 100%;
+  height: 13px;
+
+  background: #e8eee5;
+
+  border-radius: 20px;
+
+  overflow: hidden;
+}
+
+.risk-progress {
+  height: 100%;
+
+  border-radius: 20px;
+
+  transition: width 0.4s ease;
+}
+
+/* Risk colours */
+
+.risk-progress.low {
+  background: #5c9b63;
+}
+
+.risk-progress.moderate {
+  background: #e5aa3d;
+}
+
+.risk-progress.high {
+  background: #e26b58;
+}
+
+.risk-progress.critical {
+  background: #c94435;
+}
+
+/* Labels */
+
+.risk-labels {
+  display: flex;
+
+  justify-content: space-between;
+
+  margin-top: 6px;
+
+  font-size: 10px;
+
+  color: #8a958f;
+}
