@@ -1946,10 +1946,13 @@ function FarmerDashboard({
 ===================================================== */
 
 function OfficerDashboard({
+  
   officer,
   farmers,
   logout,
-}) {
+})
+ {
+   const [language, setLanguage] = useState("en");
   const regionData =
     regions[officer.region];
 
