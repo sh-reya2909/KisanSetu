@@ -293,10 +293,49 @@ const text = {
     quintal: "per quintal",
     marketDemo: "Regional demo market data",
     today: "Updated today",
+    tagline: "SMART AGRICULTURAL PLATFORM",
+welcomeKisan: "Welcome to KisanSetu",
+selectPortal: "Select your portal to continue",
+farmerPortal: "Farmer Portal",
+farmerDescription: "Get crop advisory, weather, mandi prices & risk alerts",
+officerPortal: "Officer Portal",
+officerDescription: "Monitor and assist farmers in your assigned region",
+next5Days: "Next 5 Days",
+mon: "Mon",
+tue: "Tue",
+wed: "Wed",
+thu: "Thu",
+fri: "Fri",
+financial: "FINANCIAL",
+loanDetails: "Loan Details",
+outstandingLoan: "Outstanding Loan",
+loanDueIn: "Loan due in",
+days: "days",
+irrigationLabel: "Irrigation",
+moistureLabel: "Moisture",
+safeZone: "Safe zone",
+attentionZone: "Attention zone",
+actionZone: "Action zone",
+criticalZone: "Critical zone",
+weatherLabel: "Weather",
+soilLabel: "Soil",
+marketLabel: "Market",
+regionalDemoWeather: "Regional demo weather",
+next5Days: "Next 5 Days",
+today: "Today",
+personalized: "Personalized Recommendation",
+personalizedAdvisory: "Your Personalized Hyperlocal Advisory",
+officerLogin: "Officer Login",
+officerMobile: "Officer Mobile Number", sendOtp: "Send OTP", enterOtp: "Enter OTP", 
+loginOfficer: "Login as Officer",
+statusGood: "Good",
+statusAttention: "Needs Attention",
+kisanSetu: "KisanSetu",
   },
 
   hi: {
     portal: "किसानसेतु किसान पोर्टल",
+personalizedAdvisory: "आपकी व्यक्तिगत स्थानीय सलाह",
     login: "किसान लॉगिन",
     register: "नए किसान का पंजीकरण",
     existing: "मौजूदा किसान",
@@ -307,6 +346,7 @@ const text = {
     sendOtp: "OTP भेजें",
     loginNow: "लॉगिन",
     create: "किसान प्रोफाइल बनाएं",
+   officerLogin: "अधिकारी लॉगिन",
     name: "किसान का नाम",
     crop: "फसल",
     soilPH: "मिट्टी का pH",
@@ -353,10 +393,52 @@ const text = {
     quintal: "प्रति क्विंटल",
     marketDemo: "क्षेत्र का डेमो बाजार डेटा",
     today: "आज अपडेट किया गया",
+    tagline: "स्मार्ट कृषि मंच",
+welcomeKisan: "किसानसेतु में आपका स्वागत है",
+selectPortal: "जारी रखने के लिए अपना पोर्टल चुनें",
+farmerPortal: "किसान पोर्टल",
+farmerDescription: "फसल सलाह, मौसम, मंडी भाव और जोखिम अलर्ट प्राप्त करें",
+officerPortal: "अधिकारी पोर्टल",
+officerDescription: "अपने क्षेत्र के किसानों की निगरानी और सहायता करें",
+farmerPortal: "किसान पोर्टल",
+farmerDescription: "फसल सलाह, मौसम, मंडी भाव और जोखिम अलर्ट प्राप्त करें",
+officerDescription: "अपने क्षेत्र के किसानों की निगरानी और सहायता करें",
+mon: "सोम",
+tue: "मंगल",
+wed: "बुध",
+thu: "गुरु",
+fri: "शुक्र",
+next5Days: "अगले 5 दिन",
+financial: "वित्तीय",
+loanDetails: "ऋण विवरण",
+outstandingLoan: "बकाया ऋण",
+loanDueIn: "ऋण चुकाने में",
+days: "दिन",
+irrigationLabel: "सिंचाई",
+moistureLabel: "नमी",
+safeZone: "सुरक्षित क्षेत्र",
+attentionZone: "सावधानी क्षेत्र",
+actionZone: "कार्रवाई क्षेत्र",
+criticalZone: "गंभीर क्षेत्र",
+weatherLabel: "मौसम",
+soilLabel: "मिट्टी",
+marketLabel: "बाज़ार",
+regionalDemoWeather: "क्षेत्रीय डेमो मौसम",
+next5Days: "अगले 5 दिन",
+today: "आज",
+personalized: "व्यक्तिगत सुझाव",
+officerMobile: "अधिकारी का मोबाइल नंबर",
+sendOtp: "OTP भेजें",
+enterOtp: "OTP दर्ज करें",
+loginOfficer: "अधिकारी के रूप में लॉगिन करें",
+statusGood: "अच्छा",
+statusAttention: "ध्यान देने की आवश्यकता",
+kisanSetu: "किसानसेतु",
   },
 
   or: {
     portal: "କିଷାନସେତୁ କୃଷକ ପୋର୍ଟାଲ",
+personalizedAdvisory: "ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ସ୍ଥାନୀୟ ପରାମର୍ଶ",
     login: "କୃଷକ ଲଗଇନ",
     register: "ନୂତନ କୃଷକ ପଞ୍ଜୀକରଣ",
     existing: "ପୁରୁଣା କୃଷକ",
@@ -384,6 +466,7 @@ const text = {
     soil: "ମାଟି ସୂଚନା",
     cropStage: "ଫସଲ ଅବସ୍ଥା",
     weather: "ପାଣିପାଗ ପୂର୍ବାନୁମାନ",
+    personalized: "ବ୍ୟକ୍ତିଗତ ପରାମର୍ଶ",
     risk: "କୃଷକ ବିପଦ",
     advisory: "ସ୍ମାର୍ଟ ପରାମର୍ଶ",
     listen: "ଶୁଣନ୍ତୁ",
@@ -412,7 +495,569 @@ const text = {
     quintal: "ପ୍ରତି କ୍ୱିଣ୍ଟାଲ",
     marketDemo: "ଅଞ୍ଚଳର ଡେମୋ ବଜାର ତଥ୍ୟ",
     today: "ଆଜି ଅପଡେଟ୍",
+    tagline: "ସ୍ମାର୍ଟ କୃଷି ପ୍ଲାଟଫର୍ମ",
+welcomeKisan: "କିଷାନସେତୁକୁ ସ୍ୱାଗତ",
+selectPortal: "ଜାରି ରଖିବା ପାଇଁ ଆପଣଙ୍କ ପୋର୍ଟାଲ ବାଛନ୍ତୁ",
+farmerPortal: "କୃଷକ ପୋର୍ଟାଲ",
+farmerDescription: "ଫସଲ ପରାମର୍ଶ, ପାଣିପାଗ, ମଣ୍ଡି ଦର ଏବଂ ବିପଦ ସତର୍କତା ପାଆନ୍ତୁ",
+officerPortal: "ଅଧିକାରୀ ପୋର୍ଟାଲ",
+officerDescription: "ଆପଣଙ୍କ ଅଞ୍ଚଳର କୃଷକମାନଙ୍କୁ ନଜର ରଖନ୍ତୁ ଏବଂ ସହାୟତା କରନ୍ତୁ",
+next5Days: "ପରବର୍ତ୍ତୀ ୫ ଦିନ",
+mon: "ସୋମ",
+tue: "ମଙ୍ଗଳ",
+wed: "ବୁଧ",
+thu: "ଗୁରୁ",
+fri: "ଶୁକ୍ର",
+financial: "ଆର୍ଥିକ",
+loanDetails: "ଋଣ ବିବରଣୀ",
+outstandingLoan: "ବକେୟା ଋଣ",
+loanDueIn: "ଋଣ ପରିଶୋଧ କରିବାକୁ",
+days: "ଦିନ",
+irrigationLabel: "ଜଳସେଚନ",
+moistureLabel: "ଆର୍ଦ୍ରତା",
+safeZone: "ସୁରକ୍ଷିତ ଅଞ୍ଚଳ",
+attentionZone: "ସତର୍କତା ଅଞ୍ଚଳ",
+actionZone: "କାର୍ଯ୍ୟ ଅଞ୍ଚଳ",
+criticalZone: "ଗୁରୁତର ଅଞ୍ଚଳ",
+weatherLabel: "ପାଣିପାଗ",
+soilLabel: "ମାଟି",
+marketLabel: "ବଜାର",
+regionalDemoWeather: "ଆଞ୍ଚଳିକ ଡେମୋ ପାଣିପାଗ",
+next5Days: "ପରବର୍ତ୍ତୀ ୫ ଦିନ",
+today: "ଆଜି",
+officerMobile: "ଅଧିକାରୀଙ୍କ ମୋବାଇଲ୍ ନମ୍ବର",
+sendOtp: "OTP ପଠାନ୍ତୁ",
+enterOtp: "OTP ପ୍ରବେଶ କରନ୍ତୁ",
+loginOfficer: "ଅଧିକାରୀ ଭାବେ ଲଗଇନ୍ କରନ୍ତୁ",
+statusGood: "ଭଲ",
+statusAttention: "ଧ୍ୟାନ ଆବଶ୍ୟକ",
+kisanSetu: "କିଷାନସେତୁ",
   },
+  bn: {
+  portal: "অফিসার পোর্টাল",
+  dashboard: "অফিসার ড্যাশবোর্ড",
+  welcome: "স্বাগতম",
+  monitoring: "আপনার নির্ধারিত এলাকার কৃষকদের পর্যবেক্ষণ",
+  overview: "আঞ্চলিক পর্যালোচনা",
+  total: "মোট কৃষক",
+  highRisk: "উচ্চ ঝুঁকিপূর্ণ কৃষক",
+  active: "সক্রিয় ফসল",
+  farmers: "আপনার এলাকার কৃষক",
+  noFarmers: "এখনও কোনো কৃষক নিবন্ধিত হয়নি",
+  newFarmers: "আপনার এলাকার নতুন কৃষকরা এখানে দেখা যাবে।",
+  riskometer: "ঝুঁকির মাত্রা",
+  low: "কম",
+  moderate: "মাঝারি",
+  high: "উচ্চ",
+  crop: "ফসল",
+  irrigation: "সেচ",
+  soilPH: "মাটির pH",
+  loanDue: "ঋণ বকেয়া",
+  days: "দিন",
+  activeCrop: "ফসল সক্রিয়",
+  notCropped: "কোনো ফসল নেই",
+  attention: "যেসব কৃষকের প্রতি মনোযোগ প্রয়োজন",
+  needAttention: "কৃষকের মনোযোগ প্রয়োজন",
+  intervention: "এই কৃষকদের ঝুঁকির স্কোর ৬০-এর বেশি এবং তাদের সহায়তার প্রয়োজন হতে পারে।",
+  personalized: "ব্যক্তিগত পরামর্শ",
+  logout: "লগ আউট",
+  farmer: "কৃষক",
+  phone: "ফোন",
+  farmerPortal: "কৃষক পোর্টাল",
+farmerDescription: "ফসলের পরামর্শ, আবহাওয়া, মান্ডির দাম এবং ঝুঁকির সতর্কতা পান",
+officerPortal: "অফিসার পোর্টাল",
+officerDescription: "আপনার নির্ধারিত এলাকার কৃষকদের পর্যবেক্ষণ করুন এবং তাদের সহায়তা করুন",
+good: "ভালো",
+days: "দিন",
+cropped: "আপনি কি ইতিমধ্যে চাষ করেছেন?",
+yes: "হ্যাঁ",
+moisture: "মাটির আর্দ্রতা %",
+hyperlocal: "আপনার জন্য ব্যক্তিগতকৃত স্থানীয় ফসলের পরামর্শ",
+todayLabel: "আজ",
+regionalWeather: "আঞ্চলিক ডেমো আবহাওয়া",
+next5Days: "পরবর্তী ৫ দিন",
+mon: "সোম",
+tue: "মঙ্গল",
+wed: "বুধ",
+thu: "বৃহস্পতি",
+fri: "শুক্র",
+temperature: "তাপমাত্রা",
+humidity: "আর্দ্রতা",
+rainfall: "বৃষ্টিপাত",
+rainChance: "বৃষ্টির সম্ভাবনা",
+maturity: "আনুমানিক পরিপক্বতা",
+growth: "ফসল বৃদ্ধির পর্যায়ে রয়েছে",
+harvest: "ফসল কাটার অবস্থা",
+notReady: "প্রস্তুত নয়",
+financial: "আর্থিক",
+loanDetails: "ঋণের বিবরণ",
+outstandingLoan: "বকেয়া ঋণ",
+loanDueIn: "ঋণ পরিশোধের সময়",
+days: "দিন",
+irrigationLabel: "সেচ",
+moistureLabel: "আর্দ্রতা",
+safeZone: "নিরাপদ অঞ্চল",
+attentionZone: "সতর্কতা অঞ্চল",
+actionZone: "করণীয় অঞ্চল",
+criticalZone: "গুরুতর অঞ্চল",
+weatherLabel: "আবহাওয়া",
+soilLabel: "মাটি",
+marketLabel: "বাজার",
+regionalDemoWeather: "আঞ্চলিক ডেমো আবহাওয়া",
+next5Days: "পরবর্তী ৫ দিন",
+today: "আজ",
+risk: "ঝুঁকির মাত্রা",
+mandi: "কাছাকাছি মাণ্ডির দাম",
+marketDemo: "আঞ্চলিক ডেমো বাজারের তথ্য",
+market: "বাজার",
+advisory: "স্মার্ট পরামর্শ",
+back: "পিছনে",
+platform: "স্মার্ট কৃষি প্ল্যাটফর্ম",
+welcome: "স্বাগতম",
+existing: "বিদ্যমান কৃষক",
+newFarmer: "নতুন কৃষক",
+mobile: "মোবাইল নম্বর",
+sendOtp: "OTP পাঠান",
+demo: "ডেমো কৃষক লগইন",
+tagline: "স্মার্ট কৃষি প্ল্যাটফর্ম",
+personalizedAdvisory: "আপনার ব্যক্তিগত স্থানীয় পরামর্শ",
+officerMobile: "অফিসারের মোবাইল নম্বর",
+sendOtp: "OTP পাঠান",
+enterOtp: "OTP লিখুন",
+loginOfficer: "অফিসার হিসেবে লগইন করুন",
+weather: "আবহাওয়া",
+soil: "মাটি",
+irrigation: "সেচ",
+loan: "ঋণ",
+mandi: "মাণ্ডি",
+statusGood: "ভালো",
+statusAttention: "মনোযোগ প্রয়োজন",
+kisanSetu: "কিষানসেতু",
+},
+mr: {
+  portal: "अधिकारी पोर्टल",
+  dashboard: "अधिकारी डॅशबोर्ड",
+  welcome: "स्वागत आहे",
+  monitoring: "आपल्या नियुक्त क्षेत्रातील शेतकऱ्यांचे निरीक्षण",
+  overview: "प्रादेशिक आढावा",
+  total: "एकूण शेतकरी",
+  highRisk: "उच्च जोखमीचे शेतकरी",
+  active: "सक्रिय पिके",
+  farmers: "आपल्या क्षेत्रातील शेतकरी",
+  noFarmers: "अद्याप कोणताही शेतकरी नोंदणीकृत नाही",
+  newFarmers: "आपल्या क्षेत्रातील नवीन शेतकरी येथे दिसतील.",
+  tagline: "स्मार्ट कृषी प्लॅटफॉर्म",
+personalizedAdvisory: "तुमच्यासाठी वैयक्तिक स्थानिक सल्ला",
+  riskometer: "जोखीम पातळी",
+  low: "कमी",
+  moderate: "मध्यम",
+  high: "उच्च",
+  crop: "पीक",
+  irrigation: "सिंचन",
+  soilPH: "मातीचा pH",
+  loanDue: "कर्ज थकबाकी",
+  days: "दिवस",
+  activeCrop: "पीक सक्रिय",
+  notCropped: "पीक नाही",
+  attention: "ज्या शेतकऱ्यांकडे लक्ष देणे आवश्यक आहे",
+  needAttention: "शेतकऱ्यांकडे लक्ष देणे आवश्यक आहे",
+  intervention: "या शेतकऱ्यांचा जोखीम गुणांक ६० पेक्षा जास्त आहे आणि त्यांना मदतीची आवश्यकता असू शकते.",
+  personalized: "वैयक्तिक शिफारस",
+  logout: "लॉग आउट",
+  farmer: "शेतकरी",
+  phone: "फोन",
+  farmerPortal: "शेतकरी पोर्टल",
+farmerDescription: "पीक सल्ला, हवामान, मंडी भाव आणि जोखीम सूचना मिळवा",
+officerPortal: "अधिकारी पोर्टल",
+officerDescription: "आपल्या नियुक्त क्षेत्रातील शेतकऱ्यांचे निरीक्षण करा आणि त्यांना मदत करा",
+dashboard: "शेतकरी डॅशबोर्ड",
+welcome: "स्वागत आहे",
+hyperlocal: "स्थानिक कृषी सल्ला",
+soil: "मातीचा डेटा",
+cropStage: "पिकाची अवस्था",
+weather: "हवामान अंदाज",
+risk: "जोखीम",
+advisory: "स्मार्ट सल्ला",
+listen: "ऐका",
+logout: "लॉगआउट",
+
+temperature: "तापमान",
+humidity: "आर्द्रता",
+rainfall: "पर्जन्यमान",
+rainChance: "पावसाची शक्यता",
+
+maturity: "अंदाजे परिपक्वता",
+harvest: "कापणीची स्थिती",
+notReady: "अजून तयार नाही",
+ready: "कापणीसाठी तयार",
+croppingTime: "पिकासाठी योग्य वेळ",
+growth: "पीक वाढीच्या अवस्थेत आहे",
+
+low: "कमी जोखीम",
+moderate: "मध्यम जोखीम",
+high: "उच्च जोखीम",
+critical: "गंभीर जोखीम",
+
+good: "सध्याची परिस्थिती बहुतांश अनुकूल आहे.",
+monitor: "हवामान, पीक आणि बाजारपेठेच्या परिस्थितीवर लक्ष ठेवा.",
+action: "प्रतिबंधात्मक उपाय सुचवले आहेत. कृषी अधिकाऱ्याशी संपर्क साधण्याचा विचार करा.",
+
+mandi: "जवळील मंडीचे दर",
+best: "सर्वोत्तम दर",
+quintal: "प्रति क्विंटल",
+marketDemo: "प्रादेशिक प्रात्यक्षिक बाजार डेटा",
+today: "आज अद्ययावत केले",
+good: "चांगले",
+days: "दिवस",
+have: "आहे",
+you: "तुम्ही",
+already: "आधीच",
+cropped: "पीक घेतले आहे का?",
+yes: "होय",
+moisture: "मातीतील आर्द्रता %",
+hyperlocal: "तुमच्यासाठी वैयक्तिकृत स्थानिक पीक सल्ला",
+todayLabel: "आज",
+regionalWeather: "प्रादेशिक डेमो हवामान",
+next5Days: "पुढील ५ दिवस",
+mon: "सोम",
+tue: "मंगळ",
+wed: "बुध",
+thu: "गुरु",
+fri: "शुक्र",
+financial: "आर्थिक",
+loanDetails: "कर्जाचा तपशील",
+outstandingLoan: "थकीत कर्ज",
+loanDueIn: "कर्ज फेडण्यासाठी",
+days: "दिवस",
+irrigationLabel: "सिंचन",
+moistureLabel: "ओलावा",
+safeZone: "सुरक्षित क्षेत्र",
+attentionZone: "सावधानता क्षेत्र",
+actionZone: "कृती क्षेत्र",
+criticalZone: "गंभीर क्षेत्र",
+weatherLabel: "हवामान",
+soilLabel: "माती",
+marketLabel: "बाजार",
+regionalDemoWeather: "प्रादेशिक डेमो हवामान",
+next5Days: "पुढील ५ दिवस",
+today: "आज",
+back: "मागे",
+platform: "स्मार्ट कृषी प्लॅटफॉर्म",
+welcome: "स्वागत आहे",
+existing: "विद्यमान शेतकरी",
+newFarmer: "नवीन शेतकरी",
+mobile: "मोबाईल क्रमांक",
+sendOtp: "OTP पाठवा",
+demo: "डेमो शेतकरी लॉगिन",
+officerMobile: "अधिकाऱ्याचा मोबाईल क्रमांक",
+sendOtp: "OTP पाठवा",
+enterOtp: "OTP प्रविष्ट करा",
+loginOfficer: "अधिकारी म्हणून लॉगिन करा",
+statusGood: "चांगले",
+statusAttention: "लक्ष देण्याची गरज",
+kisanSetu: "किसानसेतू",
+},
+gu: {
+  portal: "અધિકારી પોર્ટલ",
+  dashboard: "અધિકારી ડેશબોર્ડ",
+  welcome: "સ્વાગત છે",
+  monitoring: "તમારા સોંપાયેલા વિસ્તારના ખેડૂતોનું નિરીક્ષણ",
+  overview: "પ્રાદેશિક ઝાંખી",
+  total: "કુલ ખેડૂતો",
+  highRisk: "ઉચ્ચ જોખમ ધરાવતા ખેડૂતો",
+  active: "સક્રિય પાક",
+  farmers: "તમારા વિસ્તારના ખેડૂતો",
+  noFarmers: "હજુ સુધી કોઈ ખેડૂત નોંધાયેલ નથી",
+  newFarmers: "તમારા વિસ્તારના નવા ખેડૂતો અહીં દેખાશે.",
+  personalized: "વ્યક્તિગત ભલામણ",
+  riskometer: "જોખમનું સ્તર",
+  risk: "જોખમનું સ્તર",
+  advisory: "સ્માર્ટ સલાહ",
+  low: "ઓછું",
+  moderate: "મધ્યમ",
+  high: "ઉચ્ચ",
+  crop: "પાક",
+  irrigation: "સિંચાઈ",
+  soilPH: "માટીનું pH",
+  loanDue: "લોન બાકી",
+  days: "દિવસ",
+  activeCrop: "પાક સક્રિય",
+  notCropped: "કોઈ પાક નથી",
+  attention: "ધ્યાનની જરૂર ધરાવતા ખેડૂતો",
+  needAttention: "ખેડૂતને ધ્યાનની જરૂર છે",
+  intervention: "આ ખેડૂતોનો જોખમ સ્કોર ૬૦થી વધુ છે અને તેમને સહાયની જરૂર પડી શકે છે.",
+  logout: "લૉગ આઉટ",
+  farmer: "ખેડૂત",
+  phone: "ફોન",
+  farmerPortal: "ખેડૂત પોર્ટલ",
+farmerDescription: "પાક સલાહ, હવામાન, મંડી ભાવ અને જોખમની ચેતવણીઓ મેળવો",
+officerPortal: "અધિકારી પોર્ટલ",
+officerDescription: "તમારા નિયુક્ત વિસ્તારના ખેડૂતોનું નિરીક્ષણ કરો અને તેમને સહાય કરો",
+good: "સારું",
+days: "દિવસો",
+cropped: "શું તમે પહેલેથી જ પાક લીધો છે?",
+yes: "હા",
+moisture: "માટીની ભેજ %",
+hyperlocal: "તમારા માટે વ્યક્તિગત સ્થાનિક પાક સલાહ",
+todayLabel: "આજે",
+regionalWeather: "પ્રાદેશિક ડેમો હવામાન",
+next5Days: "આગામી ૫ દિવસ",
+mon: "સોમ",
+tue: "મંગળ",
+wed: "બુધ",
+thu: "ગુરુ",
+fri: "શુક્ર",
+temperature: "તાપમાન",
+humidity: "ભેજ",
+rainfall: "વરસાદ",
+rainChance: "વરસાદની સંભાવના",
+maturity: "અંદાજિત પરિપક્વતા",
+growth: "પાક વૃદ્ધિના તબક્કામાં છે",
+harvest: "લણણીની સ્થિતિ",
+notReady: "તૈયાર નથી",
+financial: "નાણાકીય",
+loanDetails: "લોનની વિગતો",
+outstandingLoan: "બાકી લોન",
+loanDueIn: "લોન ચૂકવવામાં બાકી",
+days: "દિવસ",
+irrigationLabel: "સિંચાઈ",
+moistureLabel: "ભેજ",
+safeZone: "સલામત વિસ્તાર",
+attentionZone: "સાવચેતી વિસ્તાર",
+actionZone: "કાર્ય વિસ્તાર",
+criticalZone: "ગંભીર વિસ્તાર",
+weatherLabel: "હવામાન",
+soilLabel: "માટી",
+marketLabel: "બજાર",
+regionalDemoWeather: "પ્રાદેશિક ડેમો હવામાન",
+next5Days: "આગામી ૫ દિવસ",
+today: "આજે",
+back: "પાછા",
+platform: "સ્માર્ટ કૃષિ પ્લેટફોર્મ",
+welcome: "સ્વાગત છે",
+existing: "હાલના ખેડૂત",
+newFarmer: "નવા ખેડૂત",
+mobile: "મોબાઇલ નંબર",
+sendOtp: "OTP મોકલો",
+demo: "ડેમો ખેડૂત લૉગિન",
+tagline: "સ્માર્ટ કૃષિ પ્લેટફોર્મ",
+personalizedAdvisory: "તમારી વ્યક્તિગત સ્થાનિક સલાહ",
+officerMobile: "અધિકારીનો મોબાઇલ નંબર",
+sendOtp: "OTP મોકલો",
+enterOtp: "OTP દાખલ કરો",
+loginOfficer: "અધિકારી તરીકે લૉગિન કરો",
+weather: "હવામાન",
+soil: "માટી",
+irrigation: "સિંચાઈ",
+loan: "લોન",
+mandi: "મંડી",
+statusGood: "સારું",
+statusAttention: "ધ્યાન આપવાની જરૂર છે",
+kisanSetu: "કિસાનસેતુ",
+
+},
+ta: {
+  portal: "அதிகாரி போர்டல்",
+  dashboard: "அதிகாரி டாஷ்போர்டு",
+  welcome: "வரவேற்கிறோம்",
+  monitoring: "உங்களுக்கு ஒதுக்கப்பட்ட பகுதி விவசாயிகளைக் கண்காணித்தல்",
+  overview: "பிராந்திய மேலோட்டம்",
+  total: "மொத்த விவசாயிகள்",
+  highRisk: "அதிக ஆபத்துள்ள விவசாயிகள்",
+  active: "செயலில் உள்ள பயிர்கள்",
+  farmers: "உங்கள் பகுதி விவசாயிகள்",
+  noFarmers: "இதுவரை விவசாயிகள் பதிவு செய்யப்படவில்லை",
+  newFarmers: "உங்கள் பகுதியின் புதிய விவசாயிகள் இங்கே தோன்றுவார்கள்.",
+  riskometer: "ஆபத்து நிலை",
+  risk: "ஆபத்து நிலை",
+  low: "குறைவு",
+  moderate: "மிதமான",
+  high: "அதிகம்",
+  crop: "பயிர்",
+  irrigation: "நீர்ப்பாசனம்",
+  advisory: "ஸ்மார்ட் பரிந்துரை",
+  soilPH: "மண் pH",
+  loanDue: "கடன் நிலுவை",
+  days: "நாட்கள்",
+  activeCrop: "பயிர் செயலில் உள்ளது",
+  notCropped: "பயிர் இல்லை",
+  attention: "கவனம் தேவைப்படும் விவசாயிகள்",
+  needAttention: "விவசாயிகளுக்கு கவனம் தேவை",
+  intervention: "இந்த விவசாயிகளின் ஆபத்து மதிப்பெண் 60-ஐ விட அதிகமாக உள்ளது, மேலும் அவர்களுக்கு உதவி தேவைப்படலாம்.",
+  logout: "வெளியேறு",
+  farmer: "விவசாயி",
+  phone: "தொலைபேசி",
+  farmerPortal: "விவசாயி போர்டல்",
+farmerDescription: "பயிர் ஆலோசனை, வானிலை, மண்டி விலைகள் மற்றும் அபாய எச்சரிக்கைகளைப் பெறுங்கள்",
+officerPortal: "அதிகாரி போர்டல்",
+officerDescription: "உங்களுக்கு ஒதுக்கப்பட்ட பகுதியில் உள்ள விவசாயிகளைக் கண்காணித்து அவர்களுக்கு உதவுங்கள்",
+good: "நல்லது",
+days: "நாட்கள்",
+cropped: "நீங்கள் ஏற்கனவே பயிரிட்டுவிட்டீர்களா?",
+yes: "ஆம்",
+moisture: "மண்ணின் ஈரப்பதம் %",
+hyperlocal: "உங்களுக்கான தனிப்பயனாக்கப்பட்ட உள்ளூர் பயிர் ஆலோசனை",
+todayLabel: "இன்று",
+regionalWeather: "பிராந்திய டெமோ வானிலை",
+next5Days: "அடுத்த 5 நாட்கள்",
+mon: "திங்கள்",
+tue: "செவ்வாய்",
+wed: "புதன்",
+thu: "வியாழன்",
+fri: "வெள்ளி",
+temperature: "வெப்பநிலை",
+humidity: "ஈரப்பதம்",
+rainfall: "மழைப்பொழிவு",
+rainChance: "மழைக்கான வாய்ப்பு",
+maturity: "மதிப்பிடப்பட்ட முதிர்ச்சி",
+growth: "பயிர் வளர்ச்சி நிலையில் உள்ளது",
+harvest: "அறுவடை நிலை",
+notReady: "தயாராக இல்லை",
+financial: "நிதி",
+loanDetails: "கடன் விவரங்கள்",
+outstandingLoan: "நிலுவையில் உள்ள கடன்",
+loanDueIn: "கடனை செலுத்த இன்னும்",
+days: "நாட்கள்",
+irrigationLabel: "நீர்ப்பாசனம்",
+moistureLabel: "ஈரப்பதம்",
+safeZone: "பாதுகாப்பான பகுதி",
+attentionZone: "கவனிப்பு பகுதி",
+actionZone: "நடவடிக்கை பகுதி",
+criticalZone: "அவசர பகுதி",
+weatherLabel: "வானிலை",
+soilLabel: "மண்",
+marketLabel: "சந்தை",
+regionalDemoWeather: "பிராந்திய டெமோ வானிலை",
+next5Days: "அடுத்த 5 நாட்கள்",
+today: "இன்று",
+mandi: "அருகிலுள்ள மண்டி விலைகள்",
+marketDemo: "பிராந்திய டெமோ சந்தைத் தரவு",
+market: "சந்தை",
+back: "பின்செல்",
+platform: "ஸ்மார்ட் வேளாண் தளம்",
+welcome: "வரவேற்கிறோம்",
+existing: "ஏற்கனவே உள்ள விவசாயி",
+newFarmer: "புதிய விவசாயி",
+mobile: "மொபைல் எண்",
+sendOtp: "OTP அனுப்பவும்",
+demo: "டெமோ விவசாயி உள்நுழைவு",
+tagline: "ஸ்மார்ட் வேளாண் தளம்",
+personalizedAdvisory: "உங்களுக்கான தனிப்பயனாக்கப்பட்ட உள்ளூர் பரிந்துரை",
+officerMobile: "அதிகாரியின் மொபைல் எண்",
+sendOtp: "OTP அனுப்பவும்",
+enterOtp: "OTP உள்ளிடவும்",
+loginOfficer: "அதிகாரியாக உள்நுழையவும்",
+weather: "வானிலை",
+soil: "மண்",
+irrigation: "நீர்ப்பாசனம்",
+loan: "கடன்",
+mandi: "மண்டி",
+statusGood: "நல்லது",
+statusAttention: "கவனம் தேவை",
+kisanSetu: "கிசான்சேது",
+},
+te: {
+  portal: "అధికారి పోర్టల్",
+  dashboard: "అధికారి డ్యాష్‌బోర్డ్",
+  welcome: "స్వాగతం",
+  monitoring: "మీకు కేటాయించిన ప్రాంతంలోని రైతులను పర్యవేక్షించడం",
+  overview: "ప్రాంతీయ అవలోకనం",
+  total: "మొత్తం రైతులు",
+  highRisk: "అధిక ప్రమాదంలో ఉన్న రైతులు",
+  active: "క్రియాశీల పంటలు",
+  farmers: "మీ ప్రాంతంలోని రైతులు",
+  noFarmers: "ఇంకా రైతులు నమోదు కాలేదు",
+  newFarmers: "మీ ప్రాంతంలోని కొత్త రైతులు ఇక్కడ కనిపిస్తారు.",
+  riskometer: "ప్రమాద స్థాయి",
+  risk: "ప్రమాద స్థాయి",
+  low: "తక్కువ",
+  moderate: "మధ్యస్థం",
+  high: "అధికం",
+  personalized: "தனிப்பயனாக்கப்பட்ட பரிந்துரை",
+  crop: "పంట",
+  irrigation: "నీటిపారుదల",
+  soilPH: "మట్టి pH",
+  loanDue: "రుణ బకాయి",
+  days: "రోజులు",
+  activeCrop: "పంట క్రియాశీలంగా ఉంది",
+  notCropped: "పంట లేదు",
+  attention: "శ్రద్ధ అవసరమైన రైతులు",
+  needAttention: "రైతులకు శ్రద్ధ అవసరం",
+  intervention: "ఈ రైతుల ప్రమాద స్కోరు 60 కంటే ఎక్కువగా ఉంది మరియు వారికి సహాయం అవసరం కావచ్చు.",
+  logout: "లాగ్ అవుట్",
+  farmer: "రైతు",
+  phone: "ఫోన్",
+  farmerPortal: "రైతు పోర్టల్",
+farmerDescription: "పంట సలహాలు, వాతావరణం, మండీ ధరలు మరియు ప్రమాద హెచ్చరికలను పొందండి",
+officerPortal: "అధికారి పోర్టల్",
+advisory: "స్మార్ట్ సలహా",
+officerDescription: "మీకు కేటాయించిన ప్రాంతంలోని రైతులను పర్యవేక్షించి వారికి సహాయం చేయండి",
+good: "మంచిది",
+days: "రోజులు",
+cropped: "మీరు ఇప్పటికే పంటను సాగు చేశారా?",
+yes: "అవును",
+moisture: "నేల తేమ %",
+hyperlocal: "మీ కోసం వ్యక్తిగతీకరించిన స్థానిక పంట సలహా",
+todayLabel: "ఈరోజు",
+regionalWeather: "ప్రాంతీయ డెమో వాతావరణం",
+next5Days: "తదుపరి 5 రోజులు",
+mon: "సోమ",
+tue: "మంగళ",
+wed: "బుధ",
+thu: "గురు",
+fri: "శుక్ర",
+temperature: "ఉష్ణోగ్రత",
+humidity: "తేమ",
+rainfall: "వర్షపాతం",
+rainChance: "వర్షం పడే అవకాశం",
+maturity: "అంచనా పరిపక్వత",
+growth: "పంట పెరుగుదల దశలో ఉంది",
+harvest: "కోత స్థితి",
+notReady: "సిద్ధంగా లేదు",
+financial: "ఆర్థిక",
+loanDetails: "రుణ వివరాలు",
+outstandingLoan: "బకాయి రుణం",
+loanDueIn: "రుణం చెల్లించడానికి",
+days: "రోజులు",
+irrigationLabel: "నీటిపారుదల",
+moistureLabel: "తేమ",
+safeZone: "సురక్షిత ప్రాంతం",
+attentionZone: "జాగ్రత్త ప్రాంతం",
+actionZone: "చర్య ప్రాంతం",
+criticalZone: "తీవ్రమైన ప్రాంతం",
+weatherLabel: "వాతావరణం",
+soilLabel: "నేల",
+marketLabel: "మార్కెట్",
+regionalDemoWeather: "ప్రాంతీయ డెమో వాతావరణం",
+next5Days: "తదుపరి 5 రోజులు",
+today: "ఈరోజు",
+mandi: "సమీపంలోని మార్కెట్ ధరలు",
+marketDemo: "ప్రాంతీయ డెమో మార్కెట్ డేటా",
+market: "మార్కెట్",
+personalized: "వ్యక్తిగత సిఫార్సు",
+back: "వెనుకకు",
+platform: "స్మార్ట్ వ్యవసాయ వేదిక",
+welcome: "స్వాగతం",
+existing: "ఇప్పటికే ఉన్న రైతు",
+newFarmer: "కొత్త రైతు",
+mobile: "మొబైల్ నంబర్",
+sendOtp: "OTP పంపండి",
+demo: "డెమో రైతు లాగిన్",
+tagline: "స్మార్ట్ వ్యవసాయ వేదిక",
+personalizedAdvisory: "మీ కోసం వ్యక్తిగత స్థానిక సలహా",
+officerMobile: "అధికారి మొబైల్ నంబర్",
+sendOtp: "OTP పంపండి",
+enterOtp: "OTP నమోదు చేయండి",
+loginOfficer: "అధికారిగా లాగిన్ అవ్వండి",
+weather: "వాతావరణం",
+soil: "నేల",
+irrigation: "నీటిపారుదల",
+loan: "రుణం",
+mandi: "మండి",
+statusGood: "మంచిది",
+statusAttention: "శ్రద్ధ అవసరం",
+kisanSetu: "కిసాన్‌సేతు",
+}
 };
 
 
@@ -484,28 +1129,26 @@ function speak(textToSpeak, language) {
 
 function LanguageButtons({ language, setLanguage }) {
   return (
-    <div className="language-buttons">
-      <button
-        className={language === "en" ? "selected" : ""}
-        onClick={() => setLanguage("en")}
-      >
-        EN
-      </button>
+    <div className="language-selector">
+  <select
+    value={language}
+    onChange={(e) => setLanguage(e.target.value)}
+  >
+     <option value="" disabled>
+    Select your preferred language
+  </option>
 
-      <button
-        className={language === "hi" ? "selected" : ""}
-        onClick={() => setLanguage("hi")}
-      >
-        हिंदी
-      </button>
-
-      <button
-        className={language === "or" ? "selected" : ""}
-        onClick={() => setLanguage("or")}
-      >
-        ଓଡ଼ିଆ
-      </button>
-    </div>
+    <option value="en">English</option>
+    <option value="hi">हिन्दी</option>
+    <option value="or">ଓଡ଼ିଆ</option>
+    <option value="bn">বাংলা</option>
+    <option value="mr">मराठी</option>
+    <option value="gu">ગુજરાતી</option>
+    <option value="ta">தமிழ்</option>
+    <option value="te">తెలుగు</option>
+  </select>
+</div>
+      
   );
 }
 
@@ -519,7 +1162,7 @@ function FarmerLogin({
   onRegister,
   backToRoles,
 }) {
-  const t = text[language];
+  const t = text[language] || text.en;
 
   const [mode, setMode] = useState("existing");
   const [mobile, setMobile] = useState("");
@@ -620,7 +1263,7 @@ function FarmerLogin({
       <div className="login-top">
         <div className="logo">
           🌾
-          <span>KisanSetu</span>
+          <span>{t.kisanSetu}</span>
         </div>
 
         <LanguageButtons
@@ -638,13 +1281,11 @@ function FarmerLogin({
         </button>
 
         <div className="portal-tag">
-          {t.portal}
+          {t.tagline}
         </div>
 
         <h1>
-          {mode === "existing"
-            ? t.login
-            : t.register}
+          {t.welcome}
         </h1>
 
         <div className="mode-buttons">
@@ -940,7 +1581,10 @@ function FarmerLogin({
 function OfficerLogin({
   onLogin,
   backToRoles,
+  language,
 }) {
+ const t = text[language] || text.en;
+  console.log("Officer Login language:", language);
   const [mobile, setMobile] = useState("");
   const [otp, setOtp] = useState("");
   const [otpSent, setOtpSent] = useState(false);
@@ -976,7 +1620,7 @@ function OfficerLogin({
       <div className="login-top">
         <div className="logo">
           🌾
-          <span>KisanSetu</span>
+         <span>{t.kisanSetu}</span>
         </div>
       </div>
 
@@ -989,17 +1633,16 @@ function OfficerLogin({
         </button>
 
         <div className="portal-tag">
-          KisanSetu Officer Portal
+          {t.portal}
         </div>
 
-        <h1>Officer Login</h1>
+        <h1>{t.officerPortal}</h1>
 
         <p className="login-description">
-          Login to manage farmers from your
-          assigned region.
+          {t.monitoring}
         </p>
 
-        <label>Officer Mobile Number</label>
+        <label>{t.officerMobile}</label>
 
         <input
           type="tel"
@@ -1018,7 +1661,7 @@ function OfficerLogin({
             className="primary-button"
             onClick={sendOtp}
           >
-            Send OTP
+          {t.sendOtp}
           </button>
         ) : (
           <>
@@ -1026,7 +1669,7 @@ function OfficerLogin({
               Demo OTP: 1234
             </div>
 
-            <label>Enter OTP</label>
+            <label>{t.enterOtp}</label>
 
             <input
               type="text"
@@ -1042,12 +1685,12 @@ function OfficerLogin({
                 )
               }
             />
-
+           
             <button
               className="primary-button"
               onClick={verifyOtp}
             >
-              Login as Officer
+              {t.loginOfficer}
             </button>
           </>
         )}
@@ -1096,13 +1739,15 @@ function RoleSelect({
   language,
   setLanguage,
   selectRole,
+  translations,
 }) {
+  const t = translations[language] || translations.en;
   return (
     <div className="login-page">
       <div className="login-top">
         <div className="logo">
           🌾
-          <span>KisanSetu</span>
+          <span>{t.kisanSetu}</span>
         </div>
 
         <LanguageButtons
@@ -1113,27 +1758,15 @@ function RoleSelect({
 
       <div className="login-card role-card">
         <div className="portal-tag">
-  {language === "en"
-    ? "SMART AGRICULTURAL PLATFORM"
-    : language === "hi"
-    ? "स्मार्ट कृषि मंच"
-    : "ସ୍ମାର୍ଟ କୃଷି ପ୍ଲାଟଫର୍ମ"}
+  {t.portal}
 </div>
 
        <h1>
-  {language === "en"
-    ? "Welcome to KisanSetu"
-    : language === "hi"
-    ? "किसानसेतु में आपका स्वागत है"
-    : "କିଷାନସେତୁକୁ ସ୍ୱାଗତ"}
+  {t.welcome}
 </h1>
 
 <p className="login-description">
-  {language === "en"
-    ? "Select your portal to continue"
-    : language === "hi"
-    ? "जारी रखने के लिए अपना पोर्टल चुनें"
-    : "ଜାରି ରଖିବା ପାଇଁ ଆପଣଙ୍କ ପୋର୍ଟାଲ ବାଛନ୍ତୁ"}
+  {t.selectPortal}
 </p>
 
         <div className="role-options">
@@ -1146,13 +1779,9 @@ function RoleSelect({
             <span>👨‍🌾</span>
 
             <div>
-              <strong>{language === "en" ? "Farmer Portal" : language === "hi" ? "किसान पोर्टल" : "କୃଷକ ପୋର୍ଟାଲ"}</strong><br></br>
+              <strong>{t.farmerPortal}</strong><br></br>
               <small>
-  {language === "en"
-    ? "Get crop advisory, weather, mandi prices & risk alerts"
-    : language === "hi"
-    ? "फसल सलाह, मौसम, मंडी भाव और जोखिम अलर्ट प्राप्त करें"
-    : "ଫସଲ ପରାମର୍ଶ, ପାଣିପାଗ, ମଣ୍ଡି ଦର ଏବଂ ବିପଦ ସତର୍କତା ପାଆନ୍ତୁ"}
+  {t.farmerDescription}
 </small>
             </div>
           </button>
@@ -1166,13 +1795,9 @@ function RoleSelect({
             <span>👨‍💼</span>
 
             <div>
-              <strong>{language === "en" ? "Officer Portal" : language === "hi" ? "अधिकारी पोर्टल" : "ଅଧିକାରୀ ପୋର୍ଟାଲ"}</strong><br></br>
+              <strong>{t.officerPortal}</strong><br></br>
               <small>
-  {language === "en"
-    ? "Monitor and assist farmers in your assigned region"
-    : language === "hi"
-    ? "अपने क्षेत्र के किसानों की निगरानी और सहायता करें"
-    : "ଆପଣଙ୍କ ଅଞ୍ଚଳର କୃଷକମାନଙ୍କୁ ନଜର ରଖନ୍ତୁ ଏବଂ ସହାୟତା କରନ୍ତୁ"}
+  {t.officerDescription}
 </small>
             </div>
           </button>
@@ -1240,9 +1865,9 @@ function SoilCard({ farmer, t }) {
 
           <strong>
             {ph >= 6 && ph <= 7.5
-              ? "Good"
-              : "Needs attention"}
-          </strong>
+              ? `${t.statusGood}`
+              : `{t.statusAttention}`}
+              </strong>
         </div>
 
         <div>
@@ -1261,7 +1886,41 @@ function SoilCard({ farmer, t }) {
    CROP CARD
 ===================================================== */
 
-function CropCard({ farmer, t }) {
+const cropTranslations = {
+  Wheat: {
+    en: "Wheat",
+    hi: "गेहूँ",
+    or: "ଗହମ",
+    bn: "গম",
+    mr: "गहू",
+    gu: "ઘઉં",
+    ta: "கோதுமை",
+    te: "గోధుమ",
+  },
+
+  Rice: {
+    en: "Rice",
+    hi: "चावल",
+    or: "ଧାନ",
+    bn: "চাল",
+    mr: "तांदूळ",
+    gu: "ચોખા",
+    ta: "அரிசி",
+    te: "వరి",
+  },
+
+  Maize: {
+    en: "Maize",
+    hi: "मक्का",
+    or: "ମକା",
+    bn: "ভুট্টা",
+    mr: "मका",
+    gu: "મકાઈ",
+    ta: "சோளம்",
+    te: "మొక్కజొన్న",
+  },
+};
+function CropCard({ farmer, t, language }) {
   let stage = farmer.cropped
     ? t.growth
     : t.croppingTime;
@@ -1313,7 +1972,9 @@ function CropCard({ farmer, t }) {
 
         <div>
           <small>{t.crop}</small>
-          <strong>{farmer.crop}</strong>
+          <strong>
+  {cropTranslations[farmer.crop]?.[language] || farmer.crop}
+</strong>
         </div>
       </div>
 
@@ -1372,14 +2033,14 @@ function WeatherCard({ weather, t }) {
       <div className="card weather-main">
         <div className="weather-top">
           <div>
-            <small>TODAY</small>
+            <small>{t.todayLabel}</small>
 
             <h2>
               {weather.temp}°
             </h2>
 
             <p>
-              Regional demo weather
+              {t.regionalWeather}
             </p>
           </div>
 
@@ -1424,14 +2085,14 @@ function WeatherCard({ weather, t }) {
       </div>
 
       <div className="card mini-forecast">
-        <h3>Next 5 Days</h3>
+        <h3>{t.next5Days}</h3>
 
         {[
-          ["Mon", "☀️", "32°"],
-          ["Tue", "🌤️", "33°"],
-          ["Wed", "🌧️", "30°"],
-          ["Thu", "🌦️", "29°"],
-          ["Fri", "☀️", "31°"],
+          [t.mon, "☀️", "32°"],
+[t.tue, "🌤️", "33°"],
+[t.wed, "🌧️", "30°"],
+[t.thu, "🌦️", "29°"],
+[t.fri, "☀️", "31°"],
         ].map(
           ([day, icon, temp]) => (
             <div key={day}>
@@ -1601,8 +2262,8 @@ function RiskCard({
       <div className="risk-top">
         <div>
           <small>
-            03 / EARLY WARNING
-          </small>
+  03 / {t.earlyWarning}
+</small>
 
           <h2>{t.risk}</h2>
         </div>
@@ -1626,14 +2287,14 @@ function RiskCard({
         <strong>{level}</strong>
 
         <span>
-          {score <= 30
-            ? "Safe zone"
-            : score <= 60
-            ? "Attention zone"
-            : score <= 80
-            ? "Action zone"
-            : "Critical zone"}
-        </span>
+  {score <= 30
+    ? t.safeZone
+    : score <= 60
+    ? t.attentionZone
+    : score <= 80
+    ? t.actionZone
+    : t.criticalZone}
+</span>
       </div>
 
       <p className="risk-message">
@@ -1641,12 +2302,12 @@ function RiskCard({
       </p>
 
       <div className="risk-factors">
-        <span>🌧 Weather</span>
-        <span>🌱 Soil</span>
-        <span>💧 Irrigation</span>
-        <span>💰 Loan</span>
-        <span>📈 Market</span>
-      </div>
+  <span>🌧 {t.weather}</span>
+  <span>🌱 {t.soil}</span>
+  <span>💧 {t.irrigation}</span>
+  <span>💰 {t.loan}</span>
+  <span>📈 {t.mandi}</span>
+</div>
     </div>
   );
 }
@@ -1697,7 +2358,7 @@ function Advisory({
             </small>
 
             <h2>
-              Personalized Recommendation
+              {t.personalized}
             </h2>
           </div>
 
@@ -1736,7 +2397,7 @@ function FarmerDashboard({
   setLanguage,
   logout,
 }) {
-  const t = text[language];
+ const t = text[language] || text.en;
 
   const regionData =
     regions[farmer.region];
@@ -1759,10 +2420,8 @@ function FarmerDashboard({
           </div>
 
           <div>
-            <strong>KisanSetu</strong>
-            <small>
-              Farmer Portal
-            </small>
+             <strong>{t.kisanSetu}</strong>
+            <small>{t.farmerPortal}</small>
           </div>
         </div>
 
@@ -1794,14 +2453,12 @@ function FarmerDashboard({
             </h1>
 
             <p>
-              Your personalized
-              hyperlocal crop advisory
+              {t.personalizedAdvisory}
             </p>
           </div>
-
-          <div className="crop-badge">
-            🌱 {farmer.crop}
-          </div>
+<div className="crop-badge">
+  🌱 {cropTranslations[farmer.crop]?.[language] || farmer.crop}
+</div>
         </section>
 
         <div className="section-title">
@@ -1818,6 +2475,7 @@ function FarmerDashboard({
           <CropCard
             farmer={farmer}
             t={t}
+            language={language}
           />
         </div>
 
@@ -1846,13 +2504,13 @@ function FarmerDashboard({
           <div className="card loan-card">
             <div className="card-heading">
               <div>
-                <small>
-                  FINANCIAL
-                </small>
+               <small>
+  {t.financial}
+</small>
 
-                <h2>
-                  Loan Details
-                </h2>
+<h2>
+  {t.loanDetails}
+</h2>
               </div>
 
               <span>💰</span>
@@ -1868,7 +2526,7 @@ function FarmerDashboard({
             </div>
 
             <small>
-              Outstanding loan
+              {t.loan}
             </small>
 
             <div className="due-box">
@@ -1876,17 +2534,17 @@ function FarmerDashboard({
 
               <div>
                 <small>
-                  Loan due in
+                  {t.loanDueIn}
                 </small>
 
                 <strong>
-                  {farmer.dueDays} days
+                  {farmer.dueDays} {t.days}
                 </strong>
               </div>
             </div>
 
             <div className="input-summary">
-              <span>Soil pH</span>
+              <span>{t.soilPH}</span>
 
               <strong>
                 {farmer.soilPH}
@@ -1895,7 +2553,7 @@ function FarmerDashboard({
 
             <div className="input-summary">
               <span>
-                Irrigation
+                {t.irrigation}
               </span>
 
               <strong>
@@ -1905,7 +2563,7 @@ function FarmerDashboard({
 
             <div className="input-summary">
               <span>
-                Moisture
+                {t.moisture}
               </span>
 
               <strong>
@@ -1946,10 +2604,348 @@ function OfficerDashboard({
   
   officer,
   farmers,
+  language,
+  setLanguage,
   logout,
 })
  {
-   const [language, setLanguage] = useState("en");
+   
+   const translations = {
+  en: {
+    portal: "Officer Portal",
+    dashboard: "Officer Dashboard",
+    welcome: "Welcome",
+    monitoring: "Monitoring farmers from your assigned region",
+    overview: "Regional Overview",
+    total: "Total Farmers",
+    highRisk: "High Risk Farmers",
+    active: "Active Crops",
+    farmers: "Farmers in Your Region",
+    noFarmers: "No farmers registered yet",
+    newFarmers: "New farmers from your region will appear here automatically.",
+    riskometer: "Riskometer",
+    low: "Low",
+    moderate: "Moderate",
+    high: "High",
+    crop: "Crop",
+    irrigation: "Irrigation",
+    soilPH: "Soil pH",
+    loanDue: "Loan Due",
+    days: "days",
+    activeCrop: "Crop Active",
+    notCropped: "Not Cropped",
+    attention: "Farmers Requiring Attention",
+    needAttention: "farmer(s) need attention",
+    intervention: "These farmers have a distress risk score above 60 and may require intervention.",
+    logout: "Logout",
+    farmer: "Farmer",
+phone: "Phone",
+risk: "Riskometer",
+crop: "Crop",
+irrigation: "Irrigation",
+soilPH: "Soil pH",
+loanDue: "Loan Due",
+days: "days",
+cropActive: "Crop Active",
+notCropped: "Not Cropped",
+attention: "Farmers Requiring Attention",
+needAttention: "farmer(s) need attention",
+intervention: "These farmers have a distress risk score above 60 and may require intervention.",
+officerLogin: "Officer Login",
+officerMobile: "Officer Mobile Number", sendOtp: "Send OTP", enterOtp: "Enter OTP", 
+loginOfficer: "Login as Officer",
+  },
+
+  hi: {
+    portal: "अधिकारी पोर्टल",
+    dashboard: "अधिकारी डैशबोर्ड",
+    welcome: "स्वागत है",
+    monitoring: "आपके निर्धारित क्षेत्र के किसानों की निगरानी",
+    overview: "क्षेत्रीय अवलोकन",
+    total: "कुल किसान",
+    highRisk: "उच्च जोखिम वाले किसान",
+    active: "सक्रिय फसलें",
+    farmers: "आपके क्षेत्र के किसान",
+    noFarmers: "अभी तक कोई किसान पंजीकृत नहीं है",
+    newFarmers: "आपके क्षेत्र के नए किसान यहां दिखाई देंगे।",
+    riskometer: "जोखिम स्तर",
+    low: "कम",
+    moderate: "मध्यम",
+    high: "उच्च",
+    crop: "फसल",
+    irrigation: "सिंचाई",
+    soilPH: "मिट्टी का pH",
+    loanDue: "ऋण देय",
+    days: "दिन",
+    activeCrop: "फसल सक्रिय",
+    notCropped: "फसल नहीं है",
+    attention: "ध्यान देने वाले किसान",
+    needAttention: "किसान को ध्यान देने की आवश्यकता है",
+    intervention: "इन किसानों का जोखिम स्कोर 60 से अधिक है और उन्हें सहायता की आवश्यकता हो सकती है।",
+    logout: "लॉग आउट",
+    farmer: "किसान",
+phone: "फ़ोन",
+risk: "जोखिम स्तर",
+crop: "फसल",
+irrigation: "सिंचाई",
+soilPH: "मिट्टी का pH",
+loanDue: "ऋण बकाया",
+days: "दिन",
+cropActive: "फसल सक्रिय",
+notCropped: "फसल नहीं है",
+attention: "ध्यान देने वाले किसान",
+needAttention: "किसानों को ध्यान देने की आवश्यकता है",
+intervention: "इन किसानों का जोखिम स्कोर 60 से अधिक है और उन्हें सहायता की आवश्यकता हो सकती है।",
+officerLogin: "अधिकारी लॉगिन",
+officerMobile: "अधिकारी का मोबाइल नंबर", sendOtp: "OTP भेजें", enterOtp: "OTP दर्ज करें", 
+loginOfficer: "अधिकारी के रूप में लॉगिन करें",
+  },
+
+  or: {
+    portal: "ଅଧିକାରୀ ପୋର୍ଟାଲ୍",
+    dashboard: "ଅଧିକାରୀ ଡ୍ୟାସବୋର୍ଡ",
+    welcome: "ସ୍ୱାଗତ",
+    monitoring: "ଆପଣଙ୍କ ଅଞ୍ଚଳର କୃଷକମାନଙ୍କ ନିରୀକ୍ଷଣ",
+    overview: "ଆଞ୍ଚଳିକ ସମୀକ୍ଷା",
+    total: "ମୋଟ କୃଷକ",
+    highRisk: "ଅଧିକ ବିପଦରେ ଥିବା କୃଷକ",
+    active: "ସକ୍ରିୟ ଫସଲ",
+    farmers: "ଆପଣଙ୍କ ଅଞ୍ଚଳର କୃଷକ",
+    noFarmers: "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି କୃଷକ ପଞ୍ଜିକୃତ ହୋଇନାହାନ୍ତି",
+    newFarmers: "ଆପଣଙ୍କ ଅଞ୍ଚଳର ନୂତନ କୃଷକମାନେ ଏଠାରେ ଦେଖାଯିବେ।",
+    riskometer: "ବିପଦ ସ୍ତର",
+    low: "କମ",
+    moderate: "ମଧ୍ୟମ",
+    high: "ଅଧିକ",
+    crop: "ଫସଲ",
+    irrigation: "ଜଳସେଚନ",
+    soilPH: "ମାଟି pH",
+    loanDue: "ଋଣ ବକେୟା",
+    days: "ଦିନ",
+    activeCrop: "ଫସଲ ସକ୍ରିୟ",
+    notCropped: "ଫସଲ ନାହିଁ",
+    attention: "ଧ୍ୟାନ ଆବଶ୍ୟକ କରୁଥିବା କୃଷକ",
+    needAttention: "କୃଷକଙ୍କୁ ଧ୍ୟାନ ଆବଶ୍ୟକ",
+    intervention: "ଏହି କୃଷକମାନଙ୍କର ବିପଦ ସ୍କୋର ୬୦ରୁ ଅଧିକ ଏବଂ ସେମାନଙ୍କୁ ସହାୟତା ଆବଶ୍ୟକ ହୋଇପାରେ।",
+    logout: "ଲଗଆଉଟ୍",
+    farmer: "କୃଷକ",
+phone: "ଫୋନ୍",
+risk: "ବିପଦ ସ୍ତର",
+crop: "ଫସଲ",
+irrigation: "ଜଳସେଚନ",
+soilPH: "ମାଟି pH",
+loanDue: "ଋଣ ବକେୟା",
+days: "ଦିନ",
+cropActive: "ଫସଲ ସକ୍ରିୟ",
+notCropped: "ଫସଲ ନାହିଁ",
+attention: "ଧ୍ୟାନ ଆବଶ୍ୟକ କରୁଥିବା କୃଷକ",
+needAttention: "କୃଷକଙ୍କୁ ଧ୍ୟାନ ଆବଶ୍ୟକ",
+intervention: "ଏହି କୃଷକମାନଙ୍କର ବିପଦ ସ୍କୋର ୬୦ରୁ ଅଧିକ ଏବଂ ସେମାନଙ୍କୁ ସହାୟତା ଆବଶ୍ୟକ ହୋଇପାରେ।",
+officerLogin: "ଅଧିକାରୀ ଲଗଇନ୍",
+officerMobile: "ଅଧିକାରୀଙ୍କ ମୋବାଇଲ୍ ନମ୍ବର", sendOtp: "OTP ପଠାନ୍ତୁ", enterOtp: "OTP ପ୍ରବେଶ କରନ୍ତୁ",
+ loginOfficer: "ଅଧିକାରୀ ଭାବେ ଲଗଇନ୍ କରନ୍ତୁ",
+  },
+  bn: {
+  portal: "অফিসার পোর্টাল",
+  dashboard: "অফিসার ড্যাশবোর্ড",
+  welcome: "স্বাগতম",
+  monitoring: "আপনার নির্ধারিত এলাকার কৃষকদের পর্যবেক্ষণ",
+  overview: "আঞ্চলিক পর্যালোচনা",
+  total: "মোট কৃষক",
+  highRisk: "উচ্চ ঝুঁকিপূর্ণ কৃষক",
+  active: "সক্রিয় ফসল",
+  farmers: "আপনার এলাকার কৃষক",
+  noFarmers: "এখনও কোনো কৃষক নিবন্ধিত হয়নি",
+  newFarmers: "আপনার এলাকার নতুন কৃষকরা এখানে দেখা যাবে।",
+  riskometer: "ঝুঁকির মাত্রা",
+  low: "কম",
+  moderate: "মাঝারি",
+  high: "উচ্চ",
+  crop: "ফসল",
+  irrigation: "সেচ",
+  soilPH: "মাটির pH",
+  loanDue: "ঋণ বকেয়া",
+  days: "দিন",
+  activeCrop: "ফসল সক্রিয়",
+  notCropped: "কোনো ফসল নেই",
+  attention: "যেসব কৃষকের প্রতি মনোযোগ প্রয়োজন",
+  needAttention: "জন কৃষকের মনোযোগ প্রয়োজন",
+  intervention: "এই কৃষকদের ঝুঁকির স্কোর ৬০-এর বেশি এবং তাদের সহায়তার প্রয়োজন হতে পারে।",
+  logout: "লগ আউট",
+  farmer: "কৃষক",
+  phone: "ফোন",
+  risk: "ঝুঁকির মাত্রা",
+  cropActive: "ফসল সক্রিয়",
+  notCropped: "কোনো ফসল নেই",
+  officerLogin: "অফিসার লগইন",
+  attention: "যেসব কৃষকের প্রতি মনোযোগ প্রয়োজন", 
+  needAttention: "কৃষকদের মনোযোগ প্রয়োজন", 
+  intervention: "এই কৃষকদের ঝুঁকির স্কোর 60-এর বেশি এবং তাদের সহায়তার প্রয়োজন হতে পারে।",
+  officerMobile: "অফিসারের মোবাইল নম্বর", sendOtp: "OTP পাঠান", enterOtp: "OTP লিখুন", 
+  loginOfficer: "অফিসার হিসেবে লগইন করুন",
+  
+},
+
+mr: {
+  portal: "अधिकारी पोर्टल",
+  dashboard: "अधिकारी डॅशबोर्ड",
+  welcome: "स्वागत आहे",
+  monitoring: "आपल्या नियुक्त क्षेत्रातील शेतकऱ्यांचे निरीक्षण",
+  overview: "प्रादेशिक आढावा",
+  total: "एकूण शेतकरी",
+  highRisk: "उच्च जोखीम असलेले शेतकरी",
+  active: "सक्रिय पिके",
+  farmers: "आपल्या क्षेत्रातील शेतकरी",
+  noFarmers: "अद्याप कोणताही शेतकरी नोंदणीकृत नाही",
+  newFarmers: "आपल्या क्षेत्रातील नवीन शेतकरी येथे दिसतील.",
+  riskometer: "जोखीम पातळी",
+  OfficerDashboard: "कमी",
+  moderate: "मध्यम",
+  high: "उच्च",
+  crop: "पीक",
+  irrigation: "सिंचन",
+  soilPH: "मातीचा pH",
+  loanDue: "कर्ज थकीत",
+  days: "दिवस",
+  activeCrop: "पीक सक्रिय",
+  notCropped: "पीक नाही",
+  attention: "लक्ष देण्याची गरज असलेले शेतकरी",
+  needAttention: "शेतकऱ्यांना लक्ष देण्याची गरज आहे",
+  intervention: "या शेतकऱ्यांचा जोखीम स्कोअर ६० पेक्षा जास्त आहे आणि त्यांना मदतीची आवश्यकता असू शकते.",
+  logout: "लॉग आउट",
+  farmer: "शेतकरी",
+  phone: "फोन",
+  risk: "जोखीम पातळी",
+  cropActive: "पीक सक्रिय",
+  officerLogin: "अधिकारी लॉगिन",
+  attention: "लक्ष देण्याची गरज असलेले शेतकरी", 
+  needAttention: "शेतकऱ्यांना लक्ष देण्याची गरज आहे",
+   intervention: "या शेतकऱ्यांचा जोखीम स्कोअर 60 पेक्षा जास्त आहे आणि त्यांना मदतीची आवश्यकता असू शकते.",
+   officerMobile: "अधिकाऱ्याचा मोबाईल क्रमांक",
+sendOtp: "OTP पाठवा",
+enterOtp: "OTP प्रविष्ट करा",
+loginOfficer: "अधिकारी म्हणून लॉगिन करा",
+},
+
+gu: {
+  portal: "અધિકારી પોર્ટલ",
+  dashboard: "અધિકારી ડેશબોર્ડ",
+  welcome: "સ્વાગત છે",
+  monitoring: "તમારા નિર્ધારિત વિસ્તારના ખેડૂતોનું નિરીક્ષણ",
+  overview: "પ્રાદેશિક ઝાંખી",
+  total: "કુલ ખેડૂતો",
+  highRisk: "ઉચ્ચ જોખમવાળા ખેડૂતો",
+  active: "સક્રિય પાક",
+  farmers: "તમારા વિસ્તારના ખેડૂતો",
+  noFarmers: "હજુ સુધી કોઈ ખેડૂત નોંધાયેલ નથી",
+  newFarmers: "તમારા વિસ્તારના નવા ખેડૂતો અહીં દેખાશે.",
+  riskometer: "જોખમનું સ્તર",
+  low: "ઓછું",
+  moderate: "મધ્યમ",
+  high: "ઉચ્ચ",
+  crop: "પાક",
+  irrigation: "સિંચાઈ",
+  soilPH: "માટીનું pH",
+  loanDue: "લોન બાકી",
+  days: "દિવસ",
+  activeCrop: "પાક સક્રિય",
+  notCropped: "પાક નથી",
+  attention: "ધ્યાનની જરૂર ધરાવતા ખેડૂતો",
+  needAttention: "ખેડૂતોને ધ્યાનની જરૂર છે",
+  intervention: "આ ખેડૂતોનો જોખમ સ્કોર ૬૦થી વધુ છે અને તેમને સહાયની જરૂર પડી શકે છે.",
+  logout: "લૉગ આઉટ",
+  farmer: "ખેડૂત",
+  phone: "ફોન",
+  risk: "જોખમનું સ્તર",
+  cropActive: "પાક સક્રિય",
+  officerLogin: "અધિકારી લૉગિન",
+  attention: "ધ્યાનની જરૂર ધરાવતા ખેડૂતો", 
+  needAttention: "ખેડૂતોને ધ્યાનની જરૂર છે", 
+  intervention: "આ ખેડૂતોનો જોખમ સ્કોર 60થી વધુ છે અને તેમને સહાયની જરૂર પડી શકે છે.",
+  officerMobile: "અધિકારીનો મોબાઇલ નંબર", sendOtp: "OTP મોકલો", enterOtp: "OTP દાખલ કરો", 
+  loginOfficer: "અધિકારી તરીકે લૉગિન કરો",
+},
+
+ta: {
+  portal: "அதிகாரி போர்டல்",
+  dashboard: "அதிகாரி டாஷ்போர்டு",
+  welcome: "வரவேற்கிறோம்",
+  monitoring: "உங்களுக்கு ஒதுக்கப்பட்ட பகுதியிலுள்ள விவசாயிகளைக் கண்காணித்தல்",
+  overview: "பிராந்திய கண்ணோட்டம்",
+  total: "மொத்த விவசாயிகள்",
+  highRisk: "அதிக ஆபத்துள்ள விவசாயிகள்",
+  active: "செயலில் உள்ள பயிர்கள்",
+  farmers: "உங்கள் பகுதியிலுள்ள விவசாயிகள்",
+  noFarmers: "இதுவரை விவசாயிகள் பதிவு செய்யப்படவில்லை",
+  newFarmers: "உங்கள் பகுதியிலுள்ள புதிய விவசாயிகள் இங்கே தோன்றுவார்கள்.",
+  riskometer: "ஆபத்து நிலை",
+  low: "குறைவு",
+  moderate: "மிதமான",
+  high: "அதிகம்",
+  crop: "பயிர்",
+  irrigation: "நீர்ப்பாசனம்",
+  soilPH: "மண்ணின் pH",
+  loanDue: "நிலுவையில் உள்ள கடன்",
+  days: "நாட்கள்",
+  activeCrop: "பயிர் செயலில் உள்ளது",
+  notCropped: "பயிர் இல்லை",
+  attention: "கவனம் தேவைப்படும் விவசாயிகள்",
+  needAttention: "விவசாயிகளுக்கு கவனம் தேவை",
+  intervention: "இந்த விவசாயிகளின் ஆபத்து மதிப்பெண் 60-க்கு மேல் உள்ளது, அவர்களுக்கு உதவி தேவைப்படலாம்.",
+  logout: "வெளியேறு",
+  farmer: "விவசாயி",
+  phone: "தொலைபேசி",
+  risk: "ஆபத்து நிலை",
+  cropActive: "பயிர் செயலில் உள்ளது",
+  officerLogin: "அதிகாரி உள்நுழைவு",
+  attention: "கவனம் தேவைப்படும் விவசாயிகள்", 
+  needAttention: "விவசாயிகளுக்கு கவனம் தேவை",
+   intervention: "இந்த விவசாயிகளின் ஆபத்து மதிப்பெண் 60-க்கு மேல் உள்ளது, அவர்களுக்கு உதவி தேவைப்படலாம்.",
+   officerMobile: "அதிகாரியின் மொபைல் எண்", sendOtp: "OTP அனுப்பவும்", enterOtp: "OTP உள்ளிடவும்",
+    loginOfficer: "அதிகாரியாக உள்நுழையவும்",
+},
+
+te: {
+  portal: "అధికారి పోర్టల్",
+  dashboard: "అధికారి డ్యాష్‌బోర్డ్",
+  welcome: "స్వాగతం",
+  monitoring: "మీకు కేటాయించిన ప్రాంతంలోని రైతుల పర్యవేక్షణ",
+  overview: "ప్రాంతీయ అవలోకనం",
+  total: "మొత్తం రైతులు",
+  highRisk: "అధిక ప్రమాదంలో ఉన్న రైతులు",
+  active: "క్రియాశీల పంటలు",
+  farmers: "మీ ప్రాంతంలోని రైతులు",
+  noFarmers: "ఇప్పటివరకు రైతులు నమోదు కాలేదు",
+  newFarmers: "మీ ప్రాంతంలోని కొత్త రైతులు ఇక్కడ కనిపిస్తారు.",
+  riskometer: "ప్రమాద స్థాయి",
+  low: "తక్కువ",
+  moderate: "మధ్యస్థం",
+  high: "అధికం",
+  crop: "పంట",
+  irrigation: "నీటిపారుదల",
+  soilPH: "నేల pH",
+  loanDue: "చెల్లించాల్సిన రుణం",
+  days: "రోజులు",
+  activeCrop: "పంట క్రియాశీలంగా ఉంది",
+  notCropped: "పంట లేదు",
+  attention: "శ్రద్ధ అవసరమైన రైతులు",
+  needAttention: "రైతులకు శ్రద్ధ అవసరం",
+  intervention: "ఈ రైతుల ప్రమాద స్కోర్ 60 కంటే ఎక్కువగా ఉంది మరియు వారికి సహాయం అవసరం కావచ్చు.",
+  logout: "లాగ్ అవుట్",
+  farmer: "రైతు",
+  phone: "ఫోన్",
+  risk: "ప్రమాద స్థాయి",
+  cropActive: "పంట క్రియాశీలంగా ఉంది",
+  officerLogin: "అధికారి లాగిన్",
+  attention: "శ్రద్ధ అవసరమైన రైతులు", 
+  needAttention: "రైతులకు శ్రద్ధ అవసరం", 
+  intervention: "ఈ రైతుల ప్రమాద స్కోర్ 60 కంటే ఎక్కువగా ఉంది మరియు వారికి సహాయం అవసరం కావచ్చు.",
+  officerMobile: "అధికారి మొబైల్ నంబర్", sendOtp: "OTP పంపండి", enterOtp: "OTP నమోదు చేయండి",
+   loginOfficer: "అధికారిగా లాగిన్ అవ్వండి",
+}
+};
+
+const t = translations[language] || translations.en;
   const regionData =
     regions[officer.region];
 
@@ -1992,12 +2988,16 @@ function OfficerDashboard({
 </strong>
 
             <small>
-              Officer Portal
+              {t.portal}
             </small>
           </div>
         </div>
 
         <div className="nav-right">
+        <LanguageButtons
+  language={language}
+  setLanguage={setLanguage}
+/>
           <div className="officer-region">
             📍 {regionData.name}
           </div>
@@ -2006,7 +3006,7 @@ function OfficerDashboard({
             className="logout"
             onClick={logout}
           >
-            Logout
+            {t.logout}
           </button>
         </div>
       </header>
@@ -2015,19 +3015,18 @@ function OfficerDashboard({
         <section className="welcome">
           <div>
             <small>
-              Officer Dashboard
+              {t.dashboard}
             </small>
 
             <h1>
-              Welcome,{" "}
+              {t.welcome},{" "}
               {officer.name.split(
                 " "
               )[0]} 👋
             </h1>
 
             <p>
-              Monitoring farmers from
-              your assigned region
+              {t.monitoring}
             </p>
           </div>
 
@@ -2040,7 +3039,7 @@ function OfficerDashboard({
 
         <div className="section-title">
           <span>01</span>
-          <h2>Regional Overview</h2>
+          <h2>{t.overview}</h2>
         </div>
 
         <div className="officer-stats">
@@ -2048,7 +3047,7 @@ function OfficerDashboard({
             <span>👨‍🌾</span>
 
             <small>
-              Total Farmers
+              {t.total}
             </small>
 
             <strong>
@@ -2060,7 +3059,7 @@ function OfficerDashboard({
             <span>⚠️</span>
 
             <small>
-              High Risk Farmers
+              {t.highRisk}
             </small>
 
             <strong>
@@ -2072,7 +3071,7 @@ function OfficerDashboard({
             <span>🌱</span>
 
             <small>
-              Active Crops
+              {t.active}
             </small>
 
             <strong>
@@ -2090,7 +3089,7 @@ function OfficerDashboard({
         <div className="section-title">
           <span>02</span>
           <h2>
-            Farmers in Your Region
+            {t.farmers}
           </h2>
         </div>
 
@@ -2160,7 +3159,7 @@ function OfficerDashboard({
                         <div className="riskometer">
 
   <div className="riskometer-header">
-    <small>Riskometer</small>
+    <small>{t.risk}</small>
     <strong>{risk}/100</strong>
   </div>
 
@@ -2172,49 +3171,56 @@ function OfficerDashboard({
   </div>
 
   <div className="risk-labels">
-    <span>Low</span>
-    <span>Moderate</span>
-    <span>High</span>
+    <span>{t.low}</span>
+<span>{t.moderate}</span>
+<span>{t.high}</span>
   </div>
 
 </div>
-                      </div>
+      </div>
 
                       <div className="farmer-details">
 
   <div className="farmer-info-card">
     <span>🌾</span>
-    <small>Crop</small>
-    <strong>{farmer.crop}</strong>
+    <small>{t.crop}</small>
+    <strong>
+  {cropTranslations[farmer.crop]?.[language] || farmer.crop}
+</strong>
   </div>
 
   <div className="farmer-info-card">
     <span>🚰</span>
-    <small>Irrigation</small>
+    <small>{t.irrigation}</small>
     <strong>{farmer.irrigation}</strong>
   </div>
 
   <div className="farmer-info-card">
     <span>🌱</span>
-    <small>Soil pH</small>
+    <small>{t.soilPH}</small>
     <strong>{farmer.soilPH}</strong>
   </div>
 
   <div className="farmer-info-card">
-    <span>💰</span>
-    <small>Loan Due</small>
-    <strong>{farmer.dueDays} days</strong>
+    <small>{t.dueDays}</small>
+
+<strong>
+  {farmer.dueDays} {t.days}
+</strong>
   </div>
 
 </div>
 
                       <div className="farmer-status">
 
-  <span>
-    {farmer.cropped
-      ? "🌿 Crop Active"
-      : "🌱 Not Cropped"}
-  </span>
+  
+<span>
+  {farmer.cropped
+    ? `🌿 ${t.cropActive}`
+    : `🌱 ${t.notCropped}`}
+</span>
+
+
 
 </div>
                     </div>
@@ -2230,7 +3236,7 @@ function OfficerDashboard({
         <div className="section-title">
           <span>03</span>
           <h2>
-            Farmers Requiring Attention
+           {t.attention}
           </h2>
         </div>
 
@@ -2242,14 +3248,11 @@ function OfficerDashboard({
           <div>
             <h3>
               {highRiskFarmers.length}{" "}
-              farmer(s) need attention
+              {t.needAttention}
             </h3>
 
             <p>
-              These farmers have a
-              distress risk score above
-              60 and may require
-              intervention.
+              {t.intervention}
             </p>
           </div>
         </div>
@@ -2264,7 +3267,7 @@ function OfficerDashboard({
 
 export default function App() {
   const [language, setLanguage] =
-    useState("en");
+    useState("");
 
   
 
@@ -2313,6 +3316,7 @@ export default function App() {
         language={language}
         setLanguage={setLanguage}
         selectRole={setRole}
+         translations={text}
       />
     );
   }
@@ -2351,8 +3355,9 @@ export default function App() {
       <OfficerLogin
         onLogin={officerLogin}
         backToRoles={() =>
-          setRole(null)
+          setRole(null)          
         }
+         language={language}
       />
     );
   }
@@ -2381,6 +3386,8 @@ export default function App() {
       <OfficerDashboard
         officer={currentOfficer}
         farmers={farmers}
+        language={language}
+        setLanguage={setLanguage}
         logout={logout}
       />
     );

@@ -3183,3 +3183,34 @@ textarea:focus {
 
   color: #8a958f;
 }
+select {
+  padding: 10px 14px;
+  min-width: 220px;
+  border: 1.5px solid #d1d5db;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #374151;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+/* When you hover over it */
+select:hover {
+  border-color: #16a34a;
+}
+
+/* When you click/select it */
+select:focus {
+  border-color: #16a34a;
+  box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.15);
+}
+
+/* Dropdown options */
+select option {
+  background-color: #ffffff;
+  color: #374151;
+  font-size: 14px;
+}
